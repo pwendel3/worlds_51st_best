@@ -1,6 +1,6 @@
 # AI Generated Restaurant Descriptions
 
-I used the descriptions of the World's 50 Best restaurants as input and leveraged the gpt-2-simple notebook in colaboratory to generate restaurant descriptions. The results are outputted in the .txt files. A few notes:
+I used the descriptions of the [World's 50 Best restaurants](https://www.theworlds50best.com/list/1-50-winners) as input and leveraged the [gpt-2-simple notebook in colaboratory](https://colab.research.google.com/drive/1VLG8e7YSEwypxU-noRNhsv5dW4NfTGce) to generate restaurant descriptions. The results are outputted in the .txt files. A few notes:
 
 ### temperature=0.7
 somewhat believable menu items, locations are inconsistent
